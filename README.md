@@ -27,7 +27,7 @@ Example:
 ## 🌐 Live Demo
 
 👉 **Live Website:**  
-https://balapraveen246-dot.github.io/udame/
+https://balapraveen246-dot.github.io/udemy-clone/
 
 > Replace the above link with your actual GitHub Pages URL if it is different.
 
