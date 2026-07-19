@@ -15,21 +15,15 @@ A simple **Udemy Clone** built using **HTML5** and **CSS3**. This project recrea
 
 - HTML5
 - CSS3
-- 
-![Udemy Clone Screenshot](./images/screenshot.png)
 
 ## 🌐 Live Demo
 
 👉 **Live Website:**  
 https://balapraveen246-dot.github.io/udemy-clone/
 
-> Replace the above link with your actual GitHub Pages URL if it is different.
-
 ## 📂 GitHub Repository
 
 👉 https://github.com/balapraveen246-dot/udemy-clone
-
-> Replace the above link with your actual repository URL.
 
 ## 📖 Learning Outcome
 
