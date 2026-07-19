@@ -46,7 +46,7 @@ This project helped me improve my understanding of:
 
 **Praveen R**
 
-- LinkedIn: https://www.linkedin.com/in/praveen-r-8314b7306/
+- LinkedIn: www.linkedin.com/in/praveenrfsds
 - GitHub: https://github.com/balapraveen246-dot
 
 ---
