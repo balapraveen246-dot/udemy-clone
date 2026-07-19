@@ -15,13 +15,7 @@ A simple **Udemy Clone** built using **HTML5** and **CSS3**. This project recrea
 
 - HTML5
 - CSS3
-
-## 📸 Screenshot
-
-> Add your project screenshot here.
-
-Example:
-
+- 
 ![Udemy Clone Screenshot](./images/screenshot.png)
 
 ## 🌐 Live Demo
