@@ -33,7 +33,7 @@ https://balapraveen246-dot.github.io/udemy-clone/
 
 ## 📂 GitHub Repository
 
-👉 https://github.com/balapraveen246-dot/udame
+👉 https://github.com/balapraveen246-dot/udemy-clone
 
 > Replace the above link with your actual repository URL.
 
